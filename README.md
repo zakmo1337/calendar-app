@@ -7,7 +7,7 @@ Spring Boot was a natural choice for the backend because it provides an extensiv
 The choice of the H2 Database as the backend storage solution proved to be highly convenient as it is a lightweight, in-memory database that is perfect for testing purposes and demos. It allowed me to store and retrieve data without the need for setting up a complex database infrastructure. This was crucial in minimizing development time and focusing on implementing my ideas.
 
 The demo website I developed had various features and components to showcase my skills in different areas of web development. These included:
-
+![image](https://github.com/ZakTheCoder/calendar-app/assets/66418262/b1dd66a2-8cbe-49be-986a-fb0573687f6c)
 User Authentication and Registration: I implemented a simple user authentication system that allowed users to register and log in.
 
 Dashboard: A personalized dashboard for logged-in users where they could view information about their account and possibly other relevant data.
@@ -15,13 +15,12 @@ Dashboard: A personalized dashboard for logged-in users where they could view in
 Data Management: The application allowed users to create, edit, view, and delete data in the H2 Database. The specific data could vary depending on the idea and purpose of the application.
 
 Search Functionality: I added a search feature that allowed users to search for specific data, enhancing the website's utility.
-
+![image](https://github.com/ZakTheCoder/calendar-app/assets/66418262/2136e55b-bfd0-4fe3-ab5a-95fed74a8698)
 Responsive Design: The website was developed with a responsive design to ensure optimal functionality on various screen sizes and devices.
 
 Throughout the development process, I learned a lot about Spring Boot, the H2 Database, and the principles of web development. It was also a great opportunity to improve my frontend design skills and user-friendliness to ensure that the website is both functional and visually appealing.
 
 It's important to note that this website was primarily developed as a demo and practice project to expand my skills and showcase my ideas. It is not intended for use in a production environment. Nevertheless, this project helped strengthen my skills as a developer and provided valuable experience in web development. It also prepared me for future projects where I can further expand and apply my skills.
-![image](https://github.com/ZakTheCoder/calendar-app/assets/66418262/b1dd66a2-8cbe-49be-986a-fb0573687f6c)
-![image](https://github.com/ZakTheCoder/calendar-app/assets/66418262/2136e55b-bfd0-4fe3-ab5a-95fed74a8698)
+
 ![image](https://github.com/ZakTheCoder/calendar-app/assets/66418262/c7c9526c-f237-43f4-85c1-5ce2a076791d)
 
